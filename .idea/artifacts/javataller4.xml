@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="javataller4">
+    <output-path>$PROJECT_DIR$/out/artifacts/javataller4</output-path>
+    <root id="root" />
+  </artifact>
+</component>

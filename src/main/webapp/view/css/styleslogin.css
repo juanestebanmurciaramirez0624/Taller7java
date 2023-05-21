@@ -1,0 +1,20 @@
+.form{
+    width: 500PX;
+    padding: 10px;
+    margin-top: 5%;
+}
+form{
+    background-color: rgb(238, 238, 238);
+    border-radius: 10px;
+    padding: 40px 60px;
+}
+.container{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 3px;
+}
+footer{
+    margin-top:10PX;
+}

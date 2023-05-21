@@ -1,0 +1,21 @@
+.form{
+    width: 600px;
+    padding: 10px;
+    margin-top: 5%;
+}
+form{
+    background-color: rgb(238, 238, 238);
+    border-radius: 10px;
+    padding: 40px 50px;
+}
+.container{
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 5px;
+}
+footer{
+    margin-top:10PX;
+}
